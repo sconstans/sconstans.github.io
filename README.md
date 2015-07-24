@@ -33,3 +33,7 @@ Board : https://waffle.io/kosssi/sconstans.fr
     npm install
     bower install
     ./node_modules/.bin/gulp
+
+### Deploy
+
+    make deploy
