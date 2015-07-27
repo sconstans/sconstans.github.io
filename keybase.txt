@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/simonc
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://sconstans.fr
+  * I am simonc (https://keybase.io/simonc) on keybase.
+  * I have a public key with fingerprint 8FA5 9DB5 C9E8 8841 948A  395A ADFB 77D3 9610 34F9
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "8fa59db5c9e88841948a395aadfb77d3961034f9",
+            "host": "keybase.io",
+            "key_id": "adfb77d3961034f9",
+            "kid": "0101d2e84e99c5fd46c55349f5990c54410136f298587819ab06e88d298198720dab0a",
+            "uid": "2d1583ae753cca73c99288e40909e400",
+            "username": "simonc"
+        },
+        "revoke": {
+            "sig_ids": [
+                "fc99cbec96e9b2bb8638dcccdb8ba245c117e3106bb3edfd8c3bde307c45d10c0f"
+            ]
+        },
+        "service": {
+            "hostname": "sconstans.fr",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1438003681,
+    "expire_in": 157680000,
+    "prev": "b2ce2954b91688cda3b378dbccf10dbb6ab9ac1aab6bb73a5fb274e3ccecd6f6",
+    "seqno": 13,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.20
+Comment: https://keybase.io/crypto
+
+yMJjAnicbVJdaBVHFL6p0bZX/ElJpQ8hgbWkLQSZ2ZnZnbmJqBRBo1JKTfEn6XX+
+NlnS7N7sbq6GEFD8qb6J0RptQWpbEvtQRUWDkJIUba2FlBpFba1VkfpQqJHSStSI
+sxd982WG+c53vvOdM+fsrGmZbFml+8eWCVlzvuzn0c+6Mk2n4K0eS4Sq28r1WO26
+dHl+0KqjQuQHiZWzqMcJU4JIpimlGDJMOWKEc+UJ11WIORAg7DGrzmoL4zTDyAge
+6wV+aDDzyPvKoC/gt5cCAAKobE2xZkwST2FHEoIw8whjQBKMTRw5ns0ooS6FjAvg
+GCvKAJBR1wbKINzIdZXkbAUJRVy7BEnJXSQZsynVGDDAzAlSYqyjgHdow479jjCQ
+Vm+dFeli2K7T/mO/1ViOrdx6yzPZUmjJHM2ELQR1EFVSSiWo4DYmEkJXIwgcIZBW
+nqISCaURcCUmCgIJPKvFaJt6RV+WxNMZPa8twyBOeBAv8CLjqhCFSSjDj02kLUkK
+udRU0l1ImRu1yD/TyAs/UOaDTEJRR7EfBlYOGqZM/FQUYkQBQA6FdZbeVPAjnfdT
+BnEdgwOQltFFIylsqW1GsGDQoVQqjgRyqRJSehAoIRwuGJeQc2F6cxEnnrBdrM1M
+tVSO51hpV51BaLSR8clbS8NsDXjSFWmr9/uR5vJMWTYzY/pL6Y5lsq/Ofb55C6e/
+PDXv5OTFd7bW3hk6uAL7FfMOTL0vRk5UbT+0sG//uoEbE+Lb2Tsz8ZLdj6qKw2N+
+bZ5c6Rz+auXDj3q25LurV68lFdW9PzQcWaO6xm4/3j65rQOOTXz4xvEji/CxJ9WN
+Q9fK/1y3/M3PXxmb2T94/ei7J977Ndu/e/BRz/Xky6Hqt/D8c7vOv0Y+aP6n4erZ
+32t5w+gsdeHrGRdvXm48ffj1v/fvuv2w+eayitX/xvXl/x/46ZtbcwYa9072j2e+
+G5/asKds1d07hZr7c5pG7ubfvtT326Gacxc2H97wX98vS1eMLu5u+WLfvaq2uX9d
+Tcbrs4M7HlT+ePnB5KdLO9s/2Xkjt2PmQNOZyvxEzcH6pwBvSho=
+=PhzW
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/simonc
+
+==================================================================
